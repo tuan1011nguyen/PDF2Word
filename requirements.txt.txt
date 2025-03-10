@@ -1,1 +1,4 @@
 Spire.Doc
+spire.pdf
+spire.xls
+spire.presentation
